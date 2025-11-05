@@ -8,4 +8,5 @@
 - [HoverMembers](AbuiBrahimUI/HoverMembers.css)
 - [AlternateFoldersInPSL](AbuiBrahimUI/AlternateFoldersInPSL.css)
 - [EvenMoreColors](AbuiBrahimUI/EvenMoreColors/1.css)
-- [HomePicture](images/home.png)
+- [HomePicture](AbuiBrahim/images/home.png)
+- [Marianne](AbuiBrahim/addons/Marianne.css)
