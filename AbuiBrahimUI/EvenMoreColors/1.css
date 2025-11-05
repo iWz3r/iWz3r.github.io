@@ -1,0 +1,39 @@
+.name_f37cb1,
+.name__29444,
+.title__9293f,
+.headerText__99e7c,
+.nameTag__37e49>div:first-child>div,
+.guildNameText_b1f768,
+.sidebar__5e434 .content__99f8c>div[style^="height"]:not([aria-hidden]):after,
+.iconWrapper__9293f.clickable__9293f .icon__9293f,
+.searchBar__97492 .icon__97492:not(.clear_fea832):after,
+.winButton__421ed,
+.fieldTitle__1fed1,
+.wordmark__421ed:before,
+.userTag__1fed1,
+.headerText_b3f026,
+.bd-sidebar-header h2,
+.title_b717a1,
+.title_ace4f5,
+.h5_b717a1,
+.nickname_c9ccf6,
+.title_c4a579,
+.userInfoSectionHeader-2mYYun,
+.userProfileInner_c69a7b .text-lg-semibold__84aef.defaultColor__77578,
+#app-mount .isUnread__908e2 .content__908e2,
+#app-mount .divider__908e2 span,
+.tooltipContent__382e7,
+.container__00de6>.header__00de6.header__7e6bb,
+.container__00de6>.description__00de6:after,
+.container_aae012>.inner_aae012>div:after,
+.archivedDivider-2dQ9JY,
+.headerText-3MQ6n4>h3>span,
+.wordmark__421ed:before {
+    color: var(--Primary);
+}
+
+.container__00de6>.header__00de6.header__7e6bb,
+.container__00de6>.description__00de6:after,
+.container_aae012>.inner_aae012>div:after {
+    font-weight: 600;
+}
