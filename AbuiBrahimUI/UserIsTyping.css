@@ -1,0 +1,18 @@
+.typing_b88801 {
+    position: unset !important;
+    background: var(--bg-sendmessage);
+}
+
+[class*=channelTextAreaDisabled] {
+    display: block;
+}
+
+.chat_f75fb0[class*=channelTextAreaDisabled] .textArea__74017>.placeholder__1b31f:after {
+    content: "You do not have permission to send messages in this channel.";
+}
+
+.jumpToPresentBar__0f481 {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+}
